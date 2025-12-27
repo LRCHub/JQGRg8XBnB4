@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "BBoom BBoom(뿜뿜) inst",
+  "base_artist": "MOMOLAND",
+  "createdAt": "2025-12-27T14:44:21.393727Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BBoom BBoom(뿜뿜) inst",
+      "artist": "MOMOLAND",
+      "has_synced": true,
+      "path": "select/01_BBoom_BBoom(뿜뿜)_inst_MOMOLAND.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bboom Bboom",
+      "artist": "MOMOLAND",
+      "has_synced": false,
+      "path": "select/pl_01_Bboom_Bboom_MOMOLAND.txt"
+    }
+  ]
+}
